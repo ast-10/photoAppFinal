@@ -1,0 +1,41 @@
+.login-register-container {
+    background-color: #f4f4f4;
+    min-height: 100vh;
+    padding: 20px;
+  }
+  
+  .login-form-container,
+  .register-form-container {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+  }
+  
+  .form-title {
+    color: #4a90e2;
+  }
+  
+  .custom-input {
+    background-color: white;
+    color: #333;
+  }
+  
+  .login-button,
+  .register-button {
+    background-color: #4a90e2;
+    color: white;
+  }
+  
+  .login-message,
+  .registered-message {
+    text-align: center;
+  }
+  
+  .registered-message.success {
+    color: green;
+  }
+  
+  .registered-message.error {
+    color: red;
+  }
+  

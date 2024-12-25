@@ -1,0 +1,29 @@
+.topbar-appBar {
+  background-color: #4a90e2;
+}
+
+.topbar-title {
+  flex-grow: 1;
+}
+
+.topbar-form {
+  flex-grow: 1;
+}
+
+.topbar-addPhoto {
+  color: #ffff;
+  margin-left: 16px;
+}
+
+.topbar-upload {
+  color: #ffff;
+}
+
+.topbar-logout {
+  color: #e16162;
+  margin-right: 16px;
+}
+
+.topbar-deleteAccount {
+  color: red;
+}

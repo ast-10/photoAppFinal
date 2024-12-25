@@ -1,0 +1,39 @@
+.comment-dialog {
+    display: inline-block;
+  }
+  
+  .reply-chip {
+    background-color: #ffffff;
+    border: 1px solid black;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .reply-chip:hover {
+    background-color: #f7f7f7;
+  }
+  
+  .cancel-button {
+    color: #ff1744;
+  }
+  
+  .submit-button {
+    background-color: #4caf50;
+    color: white;
+    border: 1px solid #4caf50;
+  }
+  
+  .submit-button:hover {
+    background-color: #45a049;
+  }
+  
+  .submit-button:disabled {
+    background-color: #ccc;
+    color: #666;
+  }
+  
+  .error-text {
+    margin-top: 10px;
+    font-weight: 500;
+  }
+  
